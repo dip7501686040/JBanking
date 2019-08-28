@@ -12,5 +12,6 @@ It contains two desktop application ->1.JBanking.java
                       INSERT->Atfirst it automatic generate a unique accountnumber then takes other data input from admin and inserts it to the database.
                       UPDATE->admin selects a row from data table then after pressing update all input initializes by that row then admin can update all data except the account number.
                       DELETE->it deletes a selected row from data table.
-                     
+         
+customer.ibd->it is the relational database table.         
 both the applications  are connected to mysql database by JDBC and uses some SQL queries to insert,update,delete,retrive data from database.
