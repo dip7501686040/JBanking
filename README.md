@@ -4,7 +4,8 @@ It contains two desktop application ->1.JBanking.java
                                       2.AdminBanking.java
  
 1.JBanking.java-> It is general user application.
-                  Atfirst it has a login frame->then a main frame(this frame contains 5 user operations DIPOSITE,WITHDRAW,TRANSFER,BALANCE,EXIT).
+                  Atfirst it has a login frame->then a main frame(this frame contains 5 user operations     DIPOSITE,WITHDRAW,TRANSFER,BALANCE,EXIT).
+                  
 2.AdminBankung.java-> It is admin application.
                       It has a main frame which shows all available data from database.
                       It also contains some admin operations SEARCH,INSERT,UPDATE,DELETE.
